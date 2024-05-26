@@ -1,0 +1,25 @@
+ * Serving Flask app "claves2024" (lazy loading)
+ * Environment: production
+   WARNING: This is a development server. Do not use it in a production deployment.
+   Use a production WSGI server instead.
+ * Debug mode: off
+ * Running on https://0.0.0.0:5000/ (Press CTRL+C to quit)
+127.0.0.1 - - [25/May/2024 22:12:43] "[37mGET / HTTP/1.1[0m" 200 -
+ * Serving Flask app "claves2024" (lazy loading)
+ * Environment: production
+   WARNING: This is a development server. Do not use it in a production deployment.
+   Use a production WSGI server instead.
+ * Debug mode: off
+ * Running on https://0.0.0.0:5000/ (Press CTRL+C to quit)
+ * Serving Flask app "claves2024" (lazy loading)
+ * Environment: production
+   WARNING: This is a development server. Do not use it in a production deployment.
+   Use a production WSGI server instead.
+ * Debug mode: off
+ * Running on https://0.0.0.0:5000/ (Press CTRL+C to quit)
+127.0.0.1 - - [25/May/2024 22:52:16] "[37mPOST /signup/v1 HTTP/1.1[0m" 200 -
+127.0.0.1 - - [25/May/2024 22:52:35] "[37mPOST /signup/v1 HTTP/1.1[0m" 200 -
+127.0.0.1 - - [25/May/2024 22:53:34] "[37mPOST /signup/v1 HTTP/1.1[0m" 200 -
+127.0.0.1 - - [25/May/2024 22:54:05] "[37mPOST /signup/v1 HTTP/1.1[0m" 200 -
+127.0.0.1 - - [25/May/2024 22:54:39] "[37mPOST /signup/v1 HTTP/1.1[0m" 200 -
+127.0.0.1 - - [25/May/2024 22:56:22] "[37mPOST /login/v1 HTTP/1.1[0m" 200 -
